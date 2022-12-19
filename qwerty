@@ -1,1 +1,9 @@
 ;lkvkls.v,nvbifv;fillklf;hkvkc bckjhv;vklcnvguhflvfvnfkv
+to create file -- cat > file name
+to create file[D[D[D[D[D[D[D[D[D[D[D[D read the file -- cat file name
+to create or (overwrite) -- cat >> file name
+to commit -- git commit -m file name
+to push -- git push 
+to pull -- git pull
+to create file -- touch file name
+to override file -- sudo vi filename
